@@ -1,0 +1,50 @@
+{
+  "datasetId": "EO:MO:DAT:GLOBAL_ANALYSIS_FORECAST_PHY_001_024:global-analysis-forecast-phy-001-024-monthly",
+  "boundingBoxValues": [
+    {
+      "name": "bbox",
+      "bbox": [
+        -80.83495165780911,
+        24.76719560212698,
+        -27.92561593949677,
+        53.18752483473007
+      ]
+    }
+  ],
+  "dateRangeSelectValues": [
+    {
+      "name": "position",
+      "start": "2021-10-01T00:00:00.000Z",
+      "end": "2022-01-01T00:00:00.000Z"
+    }
+  ],
+  "multiStringSelectValues": [
+    {
+      "name": "variable",
+      "value": [
+        "uo",  
+        "vo",
+        "thetao",
+        "so"  
+      ]
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "service",
+      "value": "GLOBAL_ANALYSIS_FORECAST_PHY_001_024-TDS"
+    },
+    {
+      "name": "product",
+      "value": "global-analysis-forecast-phy-001-024-monthly"
+    },
+    {
+      "name": "startDepth",
+      "value": "0.49402499198913574"
+    },
+    {
+      "name": "endDepth",
+      "value": "2225.077880859375"
+    }
+  ]
+}
